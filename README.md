@@ -4,7 +4,7 @@
 - Enough Rope to Shoot Yourself in the Foot: Rules for C and C++ Programming, by Allen Holub
 - Raspberry PI 4 8GB
 - The Witcher: Season of storms, by Andrzej Sapkowski (Spanish, Hardcover)
-- PC: Specs arround a RTX4070 or RTX4080
+- PC: Specs around a RTX4070 or RTX4080
 - Yamaha R6
 - Keyboard (Aurora Lily58)
 - Silksong
@@ -19,12 +19,12 @@
 
 # Acknowledgements
 
-- Whyvern99 (and familly)
+- Whyvern99 (and family)
     - Respberry PI 4 8GB (x2)
     - Military Style Backpack in Black
     - Automatic watch with see through movement
     - Humblre PI, by Matt Parker
-- Familly
+- Family
     - Summer motorcycle gloves
     - Motorcycle riding boots
     - Drift course
